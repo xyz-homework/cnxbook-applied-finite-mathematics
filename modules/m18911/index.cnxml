@@ -16,6 +16,8 @@
        Changes to the links section in the source will not be saved. -->
 </featured-links>
 <content>
+    <section id="afm-practice-exam-problems">
+    <title>Problems</title>
     <exercise id="id1166352823207">
       <problem id="oo-id1166357962795">
         <para id="id1166347832128">What will the future value of $5000 be in 5 years at 8% compounded quarterly?</para>
@@ -725,5 +727,6 @@
 </m:math></para>
       </solution>
     </exercise>
+    </section>
   </content>
 </document>
