@@ -537,7 +537,7 @@
           <para id="id1165769020073">A roulette wheel consists of numbers 1 through 36, 0, and 00. If the wheel comes up an odd number you win a dollar, otherwise you lose a dollar. If you play the game ten times, what is your expectation?</para>
         </problem>
         <solution id="oo-id1165769665809">
-          <para id="id6562978">–$5.26</para>
+          <para id="id6562978">–$0.53</para>
         </solution>
       </exercise>
       <exercise id="id1165750322991">
