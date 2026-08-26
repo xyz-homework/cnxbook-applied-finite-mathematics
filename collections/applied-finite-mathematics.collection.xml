@@ -1,4 +1,89 @@
 <?xml version="1.0"?>
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Rupinder Sekhon">\012  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">\012  <md:content-id>col10613</md:content-id>\012  <md:title>Applied Finite Mathematics</md:title>\012  \012  \012  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>\012  <md:language>en</md:language>\012\012  \012\012  \012  \012  \012  \012  \012\012  <md:uuid>f1cfb58e-3118-435e-b41d-0bff4ec66d21</md:uuid>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Rupinder Sekhon">
+  <metadata mdml-version="0.5">
+  <md:content-id>col10613</md:content-id>
+  <md:title>Applied Finite Mathematics</md:title>
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <md:language>en</md:language>
+  <md:uuid>f1cfb58e-3118-435e-b41d-0bff4ec66d21</md:uuid>
 <md:slug>applied-finite-mathematics</md:slug>
-</metadata>\012\012  <col:content>\012    \012      <col:module document="m18901"/>\012        \012      \012    \012    \012      <col:module document="m38636">\012        <col:featured-links>\012          \012            <cnxml:link-group type="example">\012              <cnxml:link url="HWChapter1.doc">Download Chapter 1 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18902"/>\012        \012      \012    \012    \012      <col:module document="m38640">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter2.doc">Download Chapter 2 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18903"/>\012        \012      \012    \012    \012      <col:module document="m38650">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter3.doc">Download Chapter 3 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18904"/>\012        \012      \012    \012    \012      <col:module document="m38649">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter4.doc">Download Chapter 4 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18905"/>\012        \012      \012    \012    \012      <col:module document="m38651">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter5.doc">Download Chapter 5 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18906"/>\012        \012      \012    \012    \012      <col:module document="m38653">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter6.doc">Download Chapter 6 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18907"/>\012        \012      \012    \012    \012      <col:module document="m38666">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter7.doc">Download Chapter 7 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18908"/>\012        \012      \012    \012    \012      <col:module document="m38660">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter8.doc">Download Chapter 8 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18909"/>\012        \012      \012    \012    \012      <col:module document="m38663">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter9.doc">Download Chapter 9 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18910"/>\012        \012      \012    \012    \012      <col:module document="m38665">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="HWChapter10.doc">Download Chapter 10 Homework</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012    \012      <col:module document="m18911">\012        <col:featured-links>\012          \012            <cnxml:link-group type="supplemental">\012              <cnxml:link url="PracticeFinalExam.doc">Download Practice Final Exam</cnxml:link>\012            </cnxml:link-group>\012          \012        </col:featured-links>\012      </col:module>\012        \012      \012    \012  </col:content>\012</col:collection>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Linear Equations</md:title>
+      <col:content>
+        <col:module document="m18901"/>
+        <col:module document="m38636"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Matrices</md:title>
+      <col:content>
+        <col:module document="m18902"/>
+        <col:module document="m38640"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Programming: A Geometric Approach</md:title>
+      <col:content>
+        <col:module document="m18903"/>
+        <col:module document="m38650"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Programming: The Simplex Method</md:title>
+      <col:content>
+        <col:module document="m18904"/>
+        <col:module document="m38649"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mathematics of Finance</md:title>
+      <col:content>
+        <col:module document="m18905"/>
+        <col:module document="m38651"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sets and Counting</md:title>
+      <col:content>
+        <col:module document="m18906"/>
+        <col:module document="m38653"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Probability</md:title>
+      <col:content>
+        <col:module document="m18907"/>
+        <col:module document="m38666"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>More Probability</md:title>
+      <col:content>
+        <col:module document="m18908"/>
+        <col:module document="m38660"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Markov Chains</md:title>
+      <col:content>
+        <col:module document="m18909"/>
+        <col:module document="m38663"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Game Theory</md:title>
+      <col:content>
+        <col:module document="m18910"/>
+        <col:module document="m38665"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Practice Exam</md:title>
+      <col:content>
+        <col:module document="m18911"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
