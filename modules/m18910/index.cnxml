@@ -52,7 +52,7 @@
         <problem id="oo-id1171739398796">
           <para id="id1171738165141">Find the saddle points and optimal strategies for the following game. </para>
 <para id="id1171734706642">
-        <figure id="id1171737910714"><media id="id1171737910714_media" alt="This matrix shows the game.">
+        <figure id="id1171737910714"><media id="id1171737910714_media" alt="A 2 by 2 payoff matrix for the row player against the column player. Row 1: negative 25 and 10. Row 2: 10 and 50.">
             <image mime-type="image/png" src="../../media/graphics2-d655.png" id="id1171737910714__onlineimage" height="129" width="430" print-width="2in"/>
           </media>
         </figure>

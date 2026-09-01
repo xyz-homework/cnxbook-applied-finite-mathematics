@@ -672,7 +672,7 @@ Let
  "." "38" {} #  "." "62"{}
 }  right ]} {}</m:annotation></m:semantics></m:math></equation>
     <para id="id1169466706424">Which is the same as the following matrix we obtained by raising the transition matrix to higher powers.  </para>
-    <figure id="id1169457112277"><media id="id1169457112277_media" alt="">
+    <figure id="id1169457112277"><media id="id1169457112277_media" alt="A 4 by 2 matrix of long-run absorption probabilities. Rows are labeled 1K, 2K, 3K, and 4K, the gambler's starting amounts; columns are labeled 0 and 5K, the absorbing states. Row 1K: 195/211 and 16/211. Row 2K: 171/211 and 40/211. Row 3K: 135/211 and 76/211. Row 4K: 81/211 and 130/211.">
         <image mime-type="image/png" src="../../media/Picture 120.png" id="id1169457112277__onlineimage" height="234" width="300" print-width="2in"/>
       </media>
     </figure>

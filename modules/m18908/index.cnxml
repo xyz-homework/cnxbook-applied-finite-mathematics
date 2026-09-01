@@ -466,7 +466,7 @@
           </media>
         </subfigure>
 <subfigure id="eip-id1171307739437">
-          <media id="id1163874331654_media" alt="">
+          <media id="id1163874331654_media" alt="Tree diagram for choosing a jar and then a marble. Jar I and Jar II are each chosen with probability 1/2. From Jar I, the branch to a black marble has probability 1/5, giving (1/2)(1/5) = 1/10, and the branch to a white marble has probability 4/5, giving (1/2)(4/5) = 4/10. From Jar II, the black branch has probability 4/10, giving (1/2)(4/10) = 2/10, and the white branch has probability 6/10, giving (1/2)(6/10) = 3/10.">
             <image mime-type="image/png" src="../../media/graphics3-7e73.png" id="id1163874331654__onlineimage" height="300" width="300" print-width="2.5in"/>
           </media>
 </subfigure>
@@ -498,14 +498,14 @@
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">∪</m:mo><m:mi>J</m:mi></m:mrow><m:mi/><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>S</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J`I union J` ital "II"=S} {}</m:annotation></m:semantics></m:math>. Furthermore, we are given an event 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>B</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{B} {}</m:annotation></m:semantics></m:math> that has elements in both 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mi>I</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J`I} {}</m:annotation></m:semantics></m:math> and 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J` ital "II"} {}</m:annotation></m:semantics></m:math>, as shown in the Venn diagram below.</para>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J` ital "II"} {}</m:annotation></m:semantics></m:math>, as shown in the tree diagram below.</para>
       <para id="id1163893767576"><figure id="id1163881483781"><subfigure id="eip-id1163783608963">
           <media id="id1163881483781_media" alt="The figure shows another possible way of visualizing the probability of choosing a black or white marble from Jar I or Jar 2.">
             <image mime-type="image/png" src="../../media/graphics4-1c74.png" id="id1163881483781__onlineimage" height="250" width="300" print-width="2.5in"/>
           </media>
        </subfigure>
 <subfigure id="eip-id1163770650317">
-          <media id="id1163887117711_media" alt="">
+          <media id="id1163887117711_media" alt="Tree diagram with two first-stage branches, Jar I and Jar II. Each jar branches to a black marble B or a white marble W. The black-marble outcomes are labeled B = P(J I)P(B | J I) for Jar I and B = P(J II)P(B | J II) for Jar II.">
             <image mime-type="image/png" src="../../media/graphics5-d026.png" id="id1163887117711__onlineimage" height="250" width="250" print-width="2.5in"/>
           </media>
        </subfigure>
