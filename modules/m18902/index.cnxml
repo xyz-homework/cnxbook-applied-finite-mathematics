@@ -28,9 +28,9 @@ In this chapter, you will learn to:
         <para id="id1169248454905">A matrix is a rectangular array of numbers. Matrices are useful in organizing and manipulating large amounts of data. In order to get some idea of what matrices are all about, we will look at the following example.</para>
         <example id="eip-id1167801951778">
         <exercise id="id1169221801525"><problem id="oo-id1169224329005">
-            <para id="id1169233933064">Fine Furniture Company makes chairs and tables at its San Jose, Hayward, and Oakland factories. The total production, in hundreds, from the three factories for the years 1994 and 1995 is listed in the table below. </para>
+            <para id="id1169233933064">Fine Furniture Company makes chairs and tables at its San Jose, Hayward, and Oakland factories. The total production, in hundreds, from the three factories for the years 2024 and 2025 is listed in the table below. </para>
           
-        <table id="id1169228243205" summary="A table showing the number of chairs and tables made by the Fine Furniture Company in 1994 and 1995 at their locations in San Jose, Hayward, and Oakland.">
+        <table id="id1169228243205" summary="A table showing the number of chairs and tables made by the Fine Furniture Company in 2024 and 2025 at their locations in San Jose, Hayward, and Oakland.">
           <tgroup cols="5">
             <colspec colnum="1" colname="c1"/>
             <colspec colnum="2" colname="c2"/>
@@ -47,8 +47,8 @@ In this chapter, you will learn to:
                   <colspec colnum="4" colname="c4"/>
                   <tbody>
                     <row>
-                      <entry namest="c1" nameend="c2">1994</entry>
-                      <entry namest="c3" nameend="c4">1995</entry>
+                      <entry namest="c1" nameend="c2">2024</entry>
+                      <entry namest="c3" nameend="c4">2025</entry>
                     </row>
                     <row>
                       <entry>Chairs</entry>
@@ -83,11 +83,11 @@ In this chapter, you will learn to:
             </tbody>
           </tgroup>
         </table>
-        <list id="eip-id1167817515983" list-type="enumerated" number-style="lower-alpha"><item id="id1169233585686">Represent the production for the years 1994 and 1995 as the matrices A and B.</item>
+        <list id="eip-id1167817515983" list-type="enumerated" number-style="lower-alpha"><item id="id1169233585686">Represent the production for the years 2024 and 2025 as the matrices A and B.</item>
           
-            <item id="id1169231905907">Find the difference in sales between the years 1994 and 1995.  </item>
+            <item id="id1169231905907">Find the difference in sales between the years 2024 and 2025.  </item>
           
-            <item id="id1169257039910">The company predicts that in the year 2000 the production at these factories will double  that of the year 1994. What will the production be for the year 2000?</item>
+            <item id="id1169257039910">The company predicts that in the year 2030 the production at these factories will double  that of the year 2024. What will the production be for the year 2030?</item>
 </list>
           </problem>
           <solution id="oo-id1169247812197">
@@ -113,7 +113,7 @@ In this chapter, you will learn to:
 4 {} # 6 {} ##
 4 {} # 2{}
 }  right ]} {}</m:annotation></m:semantics></m:math></equation></item>
-<item><para id="eip-id1167806101923">We would like a matrix that is twice the matrix of 1994, i.e., 
+<item><para id="eip-id1167806101923">We would like a matrix that is twice the matrix of 2024, i.e., 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>2A</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2A} {}</m:annotation></m:semantics></m:math>.</para>
             <para id="id1169242085995"> Whenever a matrix is multiplied by a number, each entry is multiplied by the number.</para>
             <equation id="eip-id1167800351111">

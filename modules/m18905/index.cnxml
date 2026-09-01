@@ -2797,7 +2797,7 @@ $"311" "." "38"=x
       <example id="eip-id1168291321033">
       <exercise id="id1167456900733">
         <problem id="oo-id1167442410565">
-          <para id="id1167444368176">Mr. Jackson bought his house in 1975, and financed the loan for 30 years at an interest rate of 9.8%. His monthly payment was $1260. In 1995, Mr. Jackson decided to pay off the loan. Find the balance of the loan he still owes. </para>
+          <para id="id1167444368176">Mr. Jackson bought his house in 2005, and financed the loan for 30 years at an interest rate of 9.8%. His monthly payment was $1260. In 2025, Mr. Jackson decided to pay off the loan. Find the balance of the loan he still owes. </para>
         </problem>
         <solution id="oo-id1167453380668">
           <para id="id1167443258885">The reader should note that the original amount of the loan is not mentioned in the problem. That is because we don't need to know that to find the balance.</para>
@@ -3124,12 +3124,12 @@ y=$"15","000" "." "04"
      
       <exercise id="id1167457510857">
         <problem id="oo-id1167467530163">
-          <para id="id1167449206936">How much should be invested at 8% compounded yearly, for the final amount to be $5,000 in five years?</para>
+          <para id="id1167449206936">How much should be invested at 4% compounded yearly, for the final amount to be $5,000 in five years?</para>
         </problem>
         <solution id="oo-id1167466032381">
           <para id="id1167452652528"><emphasis effect="bold"><emphasis effect="italics">Classification:</emphasis>  Present Value of a Lump-sum</emphasis> or PV of a lump-sum.</para>
           <para id="id1167445590275"><emphasis effect="bold">Equation:</emphasis>  
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>PV</m:mtext></m:mrow></m:mstyle><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>08</m:mtext></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mn>5,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "PV" left (1+ "." "08" right ) rSup { size 8{5} } =$5,"000"} {}</m:annotation></m:semantics></m:math></para>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>PV</m:mtext></m:mrow></m:mstyle><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>04</m:mtext></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mn>5,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "PV" left (1+ "." "04" right ) rSup { size 8{5} } =$5,"000"} {}</m:annotation></m:semantics></m:math></para>
         </solution>
       </exercise>
       
