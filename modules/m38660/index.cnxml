@@ -266,7 +266,7 @@
       </exercise>
       <exercise id="id1165769446497">
         <problem id="oo-id1165764403262">
-          <para id="id1165752020668">A Texas oil drilling company has determined that it costs $25,000 to sink a test well. If oil is hit, the revenue for the company will be $500,000. If natural gas is found, the revenue will be $150,000. If the probability of hitting oil is 3% and of hitting gas is 6%, find the expected value of sinking a test well.</para>
+          <para id="id1165752020668">A Texas oil drilling company has determined that it costs $2,500,000 to sink a test well. If oil is hit, the revenue for the company will be $50,000,000. If natural gas is found, the revenue will be $15,000,000. If the probability of hitting oil is 3% and of hitting gas is 6%, find the expected value of sinking a test well.</para>
         </problem>
       </exercise>
       <exercise id="id1165785822963">
@@ -465,7 +465,7 @@
       </exercise>
       <exercise id="id1165755832922">
         <problem id="oo-id1165770119725">
-          <para id="id1165760335586">A movie and music rental store's inventory consists of 70% movie videos and 30% music videos. Twenty percent of the movie videos and 10% of the music videos are old and need replacement. If a video chosen at random is found to be old, what is the probability that it is a movie video? </para>
+          <para id="id1165760335586">A streaming platform's catalog consists of 70% movies and 30% music videos. Twenty percent of the movies and 10% of the music videos are outdated and need remastering. If a video chosen at random is found to need remastering, what is the probability that it is a movie? </para>
         </problem>
         <solution id="oo-id1165782168170">
           <equation id="fs-id1170553226184">

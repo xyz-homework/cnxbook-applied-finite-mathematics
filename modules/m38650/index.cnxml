@@ -106,10 +106,10 @@
       </exercise>
       <exercise id="id1168071459573">
         <problem id="oo-id1168077722336">
-          <para id="id1168071888089">Mr. Shamir employs two part-time typists, Inna and Jim for his typing needs. Inna charges $10 an hour and can type 6 pages an hour, while Jim charges $12 an hour and can type 8 pages per hour. Each typist must be employed at least 8 hours per week to keep them on the payroll. If Mr. Shamir has at least 208 pages to be typed, how many hours per week should he employ each student to minimize his typing costs, and what will be the total cost?</para>
+          <para id="id1168071888089">Mr. Shamir employs two student freelance data-entry workers, Inna and Jim, for his data-entry needs. Inna charges $20 an hour and can enter 6 pages an hour, while Jim charges $24 an hour and can enter 8 pages per hour. Each worker must be employed at least 8 hours per week to keep them on retainer. If Mr. Shamir has at least 208 pages to be entered, how many hours per week should he employ each student to minimize his data-entry costs, and what will be the total cost?</para>
         </problem>
         <solution id="oo-id1168077830912">
-          <para id="id1168070271021">(8, 20); $320</para>
+          <para id="id1168070271021">(8, 20); $640</para>
         </solution>
       </exercise>
       <exercise id="id1168071441147">

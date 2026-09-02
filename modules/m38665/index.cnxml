@@ -243,13 +243,13 @@
       </exercise>
       <exercise id="id1171632066153">
         <problem id="oo-id1171627124198">
-          <para id="id1171624107048">In December 1995, President Clinton ordered the first of 20,000 U. S. troops to be sent into Bosnia-Herzegovina as a peace keeping force. Unfortunately, the heavy fog made visibility very poor at the Tuzla airfield, and at the same time increased the threat of sniper attacks from the Serbian forces. U. S. Air Force Col. Neal Patton, and Lt. Col. Sid Kooyman, the advance specialists, had two choices: either to send in the troops by air with the difficulties already described or by road thus exposing the troops to ambush by the Serbian forces. The Serbian army, with its limited resources, had a choice of deploying its forces near the airport or along the road route. </para>
+          <para id="id1171624107048">During a peacekeeping mission, a coalition commander is preparing to deploy an advance force to secure a regional aid hub. Heavy fog has made visibility very poor at the local airfield, and at the same time increased the threat of sniper attacks from a hostile militia. The coalition commanders have two choices: either to send in the troops by air with the difficulties already described or by road, thus exposing the troops to ambush by the militia. The militia, with its limited resources, has a choice of deploying its forces near the airfield or along the road route.</para>
         
-          <para id="id2076843"> If the U. S. lands its troops on the airfield in the fog while the Serbs are concentrating on the road route, the payoff for U. S. is 20 points. But if the U. S. lands its troops on the airfield, and Serbians are there hiding in the fog, U. S. wins only 5 points. On the other hand, if U. S. transports its troops by road and avoids Serbs its payoff is 35 points, but if U. S. meets Serb resistance on the road route, it loses 50 points.</para>
+          <para id="id2076843">If the coalition lands its troops on the airfield in the fog while the militia is concentrating on the road route, the payoff for the coalition is 20 points. But if the coalition lands its troops on the airfield and the militia is there hiding in the fog, the coalition wins only 5 points. On the other hand, if the coalition transports its troops by road and avoids the militia, its payoff is 35 points, but if the coalition meets militia resistance on the road route, it loses 50 points.</para>
         <list id="fs-id1167591011411" list-type="enumerated" number-style="lower-alpha">
           <item><para id="id1171638698667">Write a payoff matrix for the game. </para></item>
         
-          <item><para id="id1171648204937">If you were Air Force Col. Neal Patton's advisor, what advice would you give him?</para></item></list>
+          <item><para id="id1171648204937">If you were the coalition commander's advisor, what advice would you give?</para></item></list>
         </problem>
       </exercise>
     </section>

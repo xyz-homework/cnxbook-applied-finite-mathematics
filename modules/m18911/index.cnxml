@@ -85,7 +85,7 @@
     </exercise>
     <exercise id="id1166363038801">
       <problem id="oo-id3903689">
-        <para id="id1166366122220">A $24,000 car has a useful life of 6 years. It can be leased for $400 per month. If the current interest rate is 6%, is it better to lease or to buy?</para>
+        <para id="id1166366122220">A $42,000 car has a useful life of 6 years. It can be leased for $700 per month. If the current interest rate is 6%, is it better to lease or to buy?</para>
       </problem>
       <solution id="oo-id2473465">
         <para id="id1166346605810">buy</para>
@@ -93,10 +93,10 @@
     </exercise>
     <exercise id="id1166346318100">
       <problem id="oo-id1166379197365">
-        <para id="id1166347399635">What monthly payment will amount to $10,000 in 5 years at 11%?</para>
+        <para id="id1166347399635">What monthly payment will amount to $10,000 in 5 years at 4%?</para>
       </problem>
       <solution id="oo-id1166347771793">
-        <para id="id1166353288933">125.75</para>
+        <para id="id1166353288933">150.83</para>
       </solution>
     </exercise>
     <exercise id="id1166347728627"><problem id="oo-id1166364659835">
@@ -323,7 +323,7 @@
     </exercise>
     <exercise id="id5668360">
       <problem id="oo-id1166345606879">
-        <para id="id1166365277089">A firm produces floppies at a variable cost of $1.20 per disk and a fixed cost of $1800. If the disk sells for $3 each, find the break-even point.</para>
+        <para id="id1166365277089">A firm produces USB flash drives at a variable cost of $1.20 per drive and a fixed cost of $1800. If the drive sells for $3 each, find the break-even point.</para>
       </problem>
       <solution id="oo-id1166361446101">
         <para id="id1166359232738"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>1000</m:mtext><m:mi>,</m:mi><m:mtext>3000</m:mtext></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("1000","3000" right )} {}</m:annotation></m:semantics></m:math></para>

@@ -766,7 +766,7 @@ x {} # +{} {} # 3z {} #  {} #  {} # +{} {} # 3w {} # ={} {} # "15"{}
       </exercise>
       <exercise id="id1168071884609">
         <problem id="oo-id1168078340511">
-          <para id="id1168070353716">The latest reports indicate that there are altogether 20,000 American, French, and Russian troops in Bosnia. The sum of the number of Russian troops and twice the American troops equals 10,000. Furthermore, the Americans have 5,000 more troops than the French. Are these reports consistent? </para>
+          <para id="id1168070353716">The latest reports indicate that there are altogether 20,000 security, logistics, and medical personnel deployed on a multinational mission. The sum of the number of medical personnel and twice the security personnel equals 10,000. Furthermore, there are 5,000 more security personnel than logistics personnel. Are these reports consistent? </para>
         </problem>
         <solution id="oo-id1168072252267">
           <para id="id1168072249773">No, they are not consistent.</para>

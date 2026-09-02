@@ -673,25 +673,25 @@
       
       <exercise id="id1170926884203">
         <problem id="oo-id1170926027947">
-          <para id="id5088261">In the U. S. the number of people infected with the HIV virus in 1985 was 1,000, and in 1995 that number became 350,000. If the increase in the number is linear, write an equation that will give the number of people infected in any year. If this trend continues, what will the number be in 2010? (Hint: See previous problem.)</para>
+          <para id="id5088261">Suppose that in the U. S. the number of people living with HIV in 2010 was 850,000, and in 2020 that number became 1,100,000. If the increase in the number is linear, write an equation that will give the number of people living with HIV in any year. If this trend continues, what will the number be in 2035? (Hint: See previous problem.)</para>
         </problem>
       </exercise>
       
       
       <exercise id="id1170926613576">
         <problem id="oo-id8961677">
-          <para id="id1170910532759">In 1975, an average house in San Jose cost $45,000 and the same house in 1995 costs $195,000. Write an equation that will give the price of a house in any year, and use this equation to predict the price of a similar house in the year 2010.</para>
+          <para id="id1170910532759">In 2005, an average house in San Jose cost $600,000 and the same house in 2025 costs $1,500,000. Write an equation that will give the price of a house in any year, and use this equation to predict the price of a similar house in the year 2040.</para>
         </problem>
         
         <solution id="oo-id1170925362246">
-          <para id="id1170909923250"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>7500</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>45000</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="7500"x+"45000"} {}</m:annotation></m:semantics></m:math>; $307,500</para>
+          <para id="id1170909923250"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>45000</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>600000</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="45000"x+"600000"} {}</m:annotation></m:semantics></m:math>; $2,175,000</para>
         </solution>
       </exercise>
       
       
       <exercise id="id5701974">
         <problem id="oo-id1170909407011">
-          <para id="id1170907559916">An average math text book cost $25 in 1980, and $60 in 1995. Write an equation that will give the price of a math book in any given year, and use this equation to predict the price of the book in 2010.</para>
+          <para id="id1170907559916">An average math text book cost $100 in 2005, and $175 in 2020. Write an equation that will give the price of a math book in any given year, and use this equation to predict the price of the book in 2035.</para>
         </problem>
       </exercise>
     </section>
@@ -788,7 +788,7 @@
       
       <exercise id="id1170907985945">
         <problem id="oo-id1170919409074">
-          <para id="id1170919347067">A car rental company offers two plans. Plan I charges $10 a day and 10 cents a mile, while Plan II charges 14 cents a mile, but no flat fee. If you were to drive 300 miles in a day, which plan is better? For what mileage are both rates equal?</para>
+          <para id="id1170919347067">A car rental company offers two plans. Plan I charges $50 a day and 20 cents a mile, while Plan II charges 40 cents a mile, but no flat fee. If you were to drive 300 miles in a day, which plan is better? For what mileage are both rates equal?</para>
         </problem>
       </exercise>
       
@@ -817,7 +817,7 @@
       
       <exercise id="id1170915169680">
         <problem id="oo-id1170911258182">
-          <para id="id5546747">A firm producing computer diskettes has a fixed costs of $10,725, and variable cost of 20 cents a diskette. Find the break-even point if the diskettes sell for $1.50 each.</para>
+          <para id="id5546747">A firm producing USB flash drives has a fixed costs of $10,725, and variable cost of 20 cents a flash drive. Find the break-even point if the flash drives sell for $1.50 each.</para>
         </problem>
         <solution id="oo-id1170910617910">
           <para id="id1170917674995">(8250, 12375)</para>
@@ -1045,11 +1045,11 @@
       
       <exercise id="id3169133">
         <problem id="oo-id1170927797012">
-          <para id="id4948168">In 1980, the average house in Palo Alto cost $280,000 and the same house in 1997 costs $450,000. Assuming a linear relationship, write an equation that will give the price of the house in any year, and use this equation to predict the price of a similar house in the year 2010. </para>
+          <para id="id4948168">In 2000, the average house in Palo Alto cost $1,200,000 and the same house in 2020 cost $3,200,000. Assuming a linear relationship, write an equation that will give the price of the house in any year, and use this equation to predict the price of a similar house in the year 2026. </para>
         </problem>
         <solution id="oo-id1170909474236">
           <equation id="fs-id1165698136486">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>10000</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>280000</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="10000"x+"280000"} {}</m:annotation></m:semantics><m:mo>;</m:mo><m:mspace width="4px"/><m:mn>580000</m:mn></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>100000</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>1200000</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="100000"x+"1200000"} {}</m:annotation></m:semantics><m:mo>;</m:mo><m:mspace width="4px"/><m:mn>3800000</m:mn></m:math></equation>
         </solution>
       </exercise>
       <exercise id="id1170921231118">
@@ -1063,11 +1063,11 @@
       </exercise>
       <exercise id="id1170910493000">
         <problem id="oo-id1170910643624">
-          <para id="id1170908780297">In 1955, an average new Chevrolet sold for $2,400, and a similar Chevrolet sold for $15,000 in 1995. Assuming a linear relationship, write an equation that will give the price of an average Chevrolet in any year. Use this equation to predict the price of an average Chevrolet in the year 2010. </para>
+          <para id="id1170908780297">In 1995, an average new Chevrolet sold for $18,000, and a similar Chevrolet sold for $42,000 in 2025. Assuming a linear relationship, write an equation that will give the price of an average Chevrolet in any year. Use this equation to predict the price of an average Chevrolet in the year 2035. </para>
         </problem>
         <solution id="oo-id5653848">
           <equation id="fs-id1165696342576">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>315</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>2400</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="315"x+"2400"} {}</m:annotation></m:semantics><m:mo>;</m:mo><m:mspace width="4px"/><m:mn>19725</m:mn></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>800</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>18000</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="800"x+"18000"} {}</m:annotation></m:semantics><m:mo>;</m:mo><m:mspace width="4px"/><m:mn>50000</m:mn></m:math></equation>
         </solution>
       </exercise>
       <exercise id="id1170915213787">
@@ -1081,7 +1081,7 @@
       </exercise>
       <exercise id="id1170917742967">
         <problem id="oo-id1170911690153">
-          <para id="id1170925254818">A supply curve for a product is the number of items of the product that can be made available at different prices. A manufacturer of Tickle Me Elmo dolls can supply 2000 dolls if the dolls are sold for $30 each, but he can supply only 800 dolls if the dolls are sold for $10 each. If 
+          <para id="id1170925254818">A supply curve for a product is the number of items of the product that can be made available at different prices. A manufacturer of plush dolls can supply 2000 dolls if the dolls are sold for $30 each, but he can supply only 800 dolls if the dolls are sold for $10 each. If 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> represents the price of dolls and <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> the number of items, write an equation for the supply curve.</para>
         </problem>
         <solution id="oo-id8681790">
@@ -1168,7 +1168,7 @@
       </exercise>
       <exercise id="id1170904633380">
         <problem id="oo-id1170915104871">
-          <para id="id1170910879032">A firm producing video tapes has fixed costs of $6,800, and a variable cost of 30 cents per tape. If the video tapes sell for $2 each, find the number of tapes that must be produced to break-even. </para>
+          <para id="id1170910879032">A firm producing USB drives has fixed costs of $6,800, and a variable cost of 30 cents per drive. If the USB drives sell for $2 each, find the number of drives that must be produced to break-even. </para>
         </problem>
         <solution id="oo-id1170907825970">
           <para id="id1170925541293"> 4,000</para>

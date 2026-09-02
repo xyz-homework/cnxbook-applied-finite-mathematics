@@ -1449,12 +1449,12 @@ $"1371" "." "43"=M
         <example id="eip-id1171461001026">
         <exercise id="id6584979">
           <problem id="oo-id1167443162038">
-            <para id="id1167456710007">If $3500 is invested at 9% compounded monthly, what will the future value be in four years?</para>
+            <para id="id1167456710007">If $3500 is invested at 4.5% compounded monthly, what will the future value be in four years?</para>
           </problem>
           <solution id="oo-id1167443118852">
-            <para id="id1167445810757">Clearly an interest of .09/12 is paid every month for four years. This means that the interest is compounded 48 times over the four-year period. We get</para>
+            <para id="id1167445810757">Clearly an interest of .045/12 is paid every month for four years. This means that the interest is compounded 48 times over the four-year period. We get</para>
             <equation id="eip-id1171445141437">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>$</m:mi><m:mtext>3500</m:mtext><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>.</m:mtext><m:mtext>09</m:mtext></m:mrow><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mtext>48</m:mtext></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mtext>5009</m:mtext><m:mtext>.</m:mtext><m:mtext>92</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{$"3500" left (1+ {  { "." "09"}  over  {"12"} }  right ) rSup { size 8{"48"} } =$"5009" "." "92"} {}</m:annotation></m:semantics></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>$</m:mi><m:mtext>3500</m:mtext><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mtext>.</m:mtext><m:mtext>045</m:mtext></m:mrow><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mtext>48</m:mtext></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mtext>4188</m:mtext><m:mtext>.</m:mtext><m:mtext>85</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{$"3500" left (1+ {  { "." "045"}  over  {"12"} }  right ) rSup { size 8{"48"} } =$"4188" "." "85"} {}</m:annotation></m:semantics></m:math></equation>
           </solution>
         </exercise>
 </example>

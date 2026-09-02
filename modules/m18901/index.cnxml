@@ -1241,26 +1241,26 @@
       <example id="eip-id1167105900131">
       <exercise id="id1166277068727">
         <problem id="oo-id1166277087127">
-          <para id="id1166277068730">The population of Canada in the year 1970 was 18 million, and in 1986 it was 26 million. Assuming the population growth is linear, and x represents the year and y the population, write the function that gives a relationship between the time and the population. Use this equation to predict the population of Canada in 2010.</para>
+          <para id="id1166277068730">The population of Canada in the year 2000 was 30 million, and in 2016 it was 38 million. Assuming the population growth is linear, and x represents the year and y the population, write the function that gives a relationship between the time and the population. Use this equation to predict the population of Canada in 2040.</para>
         </problem>
         <solution id="oo-id1166277087135">
-          <para id="id1166277068738">The problem can be made easier by using 1970 as the base year, that is, we choose the year 1970 as the year zero. This will mean that the year 1986 will correspond to year 16, and the year 2010 as the year 40.</para>
+          <para id="id1166277068738">The problem can be made easier by using 2000 as the base year, that is, we choose the year 2000 as the year zero. This will mean that the year 2016 will correspond to year 16, and the year 2040 as the year 40.</para>
           <para id="id1166277068746">  Now we look at the information we have.</para>
-          <para id="id1166277068834">Solving this problem is equivalent to finding an equation of a line that passes through the points (0, 18) and (16, 26). </para>
+          <para id="id1166277068834">Solving this problem is equivalent to finding an equation of a line that passes through the points (0, 30) and (16, 38). </para>
           <equation id="eip-id4723459">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>26</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>18</m:mtext></m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {"26" - "18"}  over  {"16" - 0} } = {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>30</m:mtext></m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {"38" - "30"}  over  {"16" - 0} } = {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></equation>
           <para id="id1166277068927">The equation is 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} } x+b} {}</m:annotation></m:semantics></m:math></para>
-          <para id="id1166277068994">Substituting the point (0, 18), we get</para>
+          <para id="id1166277068994">Substituting the point (0, 30), we get</para>
           <equation id="eip-id1167105840151">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} } x+"18"} {}</m:annotation></m:semantics></m:math></equation>
-          <para id="id1166277069066">Now to find the population in the year 2010, we let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} } x+"30"} {}</m:annotation></m:semantics></m:math></equation>
+          <para id="id1166277069066">Now to find the population in the year 2040, we let 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>40</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="40"} {}</m:annotation></m:semantics></m:math> in the equation </para>
           <equation id="eip-id1167105234628">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} } x+"18"} {}</m:annotation></m:semantics></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} } x+"30"} {}</m:annotation></m:semantics></m:math></equation>
           <equation id="eip-id1167106613755">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>40</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>18</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>38</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} }  \( "40" \) +"18"="38"} {}</m:annotation></m:semantics></m:math></equation>
-          <para id="id1166277069273">So the population of Canada in the year 2010 will be 38 million. </para>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>40</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>30</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>50</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y= {  {1}  over  {2} }  \( "40" \) +"30"="50"} {}</m:annotation></m:semantics></m:math></equation>
+          <para id="id1166277069273">So the population of Canada in the year 2040 will be 50 million. </para>
         
       <table id="id1166277068752" summary="A 3x2 table depicting a year and the corresponding population for that year.">
 <tgroup cols="2"><colspec colnum="1" colname="c1"/>
@@ -1271,12 +1271,12 @@
               <entry>Population</entry>
             </row>
             <row>
-              <entry>0 (1970)</entry>
-              <entry>18 million</entry>
+              <entry>0 (2000)</entry>
+              <entry>30 million</entry>
             </row>
             <row>
-              <entry>16 (1986)</entry>
-              <entry>26 million</entry>
+              <entry>16 (2016)</entry>
+              <entry>38 million</entry>
             </row>
           </tbody>
         

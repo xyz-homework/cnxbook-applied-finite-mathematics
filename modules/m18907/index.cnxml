@@ -1154,17 +1154,17 @@ union of two events. It states</para>
       <example id="eip-id1164918694440">
       <exercise id="id1165262072239">
         <problem id="oo-id1165273719622">
-          <para id="id1165254058545">At a community college 65% of the students use IBM computers, 50% use Macintosh computers, and 20% use both. If a student is chosen at random, find the following probabilities.</para>
+          <para id="id1165254058545">At a community college 65% of the students use iPads, 50% use Macs, and 20% use both. If a student is chosen at random, find the following probabilities.</para>
        <list id="eip-id1164922044618" list-type="enumerated" number-style="lower-alpha">
-          <item> The student uses an IBM given that he uses a Macintosh.</item>
+          <item> The student uses an iPad given that he uses a Mac.</item>
        
-          <item>The student uses a Macintosh knowing that he uses an IBM.</item>
+          <item>The student uses a Mac knowing that he uses an iPad.</item>
 </list>
         </problem>
         <solution id="oo-id1165248054054">
           <para id="id1165252051985">Let event 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>I</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> be that the student uses an IBM computer, and 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>M</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> the probability that he uses a Macintosh. </para>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>I</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I} {}</m:annotation></m:semantics></m:math> be that the student uses an iPad, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>M</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> the probability that he uses a Mac. </para>
 <list id="eip-id1164918658046" list-type="enumerated" number-style="lower-alpha">
           <item>
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">∣</m:mo><m:mi>M</m:mi></m:mrow></m:mfenced><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>.</m:mtext><m:mtext>20</m:mtext></m:mrow><m:mrow><m:mtext>.</m:mtext><m:mtext>50</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P left (I \lline M right )= {  { "." "20"}  over  { "." "50"} } = {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math></item>

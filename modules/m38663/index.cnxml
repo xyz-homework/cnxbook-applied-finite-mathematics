@@ -213,7 +213,7 @@
       </exercise>
       <exercise id="id7637020">
         <problem id="oo-id1171278994896">
-          <para id="id1171273040216">Many Russians have experienced a sharp decline in their living standards due to President Yeltsin's reforms. As a result, in the parliamentary elections held in December 1995, Communists and Nationalists made significant gains, and a new pattern in switching political parties emerged. The transition matrix for such a change is given below, where Communists, Nationalists, and Reformists are denoted by the letters 
+          <para id="id1171273040216">In a multi-party parliamentary system, political analysts study how voters switch support among three major parties between elections. The transition matrix for voter movement is given below, where Centrists, Nationalists, and Reformists are denoted by the letters 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C} {}</m:annotation></m:semantics></m:math>, 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation></m:semantics></m:math>, and 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>R</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R} {}</m:annotation></m:semantics></m:math>, respectively.</para>
@@ -227,7 +227,7 @@
       
           <para id="id7125923">Find the following.</para>
        <list id="fs-id1172305998307" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id1171273039949">If in this election Communists received 25% of the votes, Nationalists 30%, and Reformists the rest 45%, what will the distribution be in the next election?</para></item>
+          <item><para id="id1171273039949">If in this election Centrists received 25% of the votes, Nationalists 30%, and Reformists the rest 45%, what will the distribution be in the next election?</para></item>
         
           <item><para id="id8972142">What will the distribution be in the third election? </para></item>
         
@@ -436,9 +436,9 @@
       </exercise>
       <exercise id="id1171279041233">
         <problem id="oo-id1171277123815">
-          <para id="id1171276777047">A survey of computer buyers indicates that if a person buys an Apple computer, there is an 80% chance that their next purchase will be an Apple, while owners of an IBM will buy an IBM again with a probability of .70. The buying habits of these consumers are represented in the transition matrix below.</para>
+          <para id="id1171276777047">A survey of computer buyers indicates that if a person buys an Apple computer, there is an 80% chance that their next purchase will be an Apple, while owners of a Dell will buy a Dell again with a probability of .70. The buying habits of these consumers are represented in the transition matrix below.</para>
         
-      <figure id="id1171272030650"><media id="id1171272030650_media" alt="This matrix shows the probable buying habits of consumers from Apple to IBM.">
+      <figure id="id1171272030650"><media id="id1171272030650_media" alt="This matrix shows the probable buying habits of consumers from Apple to Dell.">
           <image mime-type="image/png" src="../../media/graphics12-ddc2.png" id="id1171272030650__onlineimage" height="107" width="522" print-width="3.5in"/>
         </media>
       </figure>
@@ -447,11 +447,11 @@
       
           <para id="id1171277124655">Find the following probabilities:</para>
         <list id="fs-id1172312618973" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id8555692">The probability that a present owner of an Apple will buy an IBM as his next computer.</para></item>
+          <item><para id="id8555692">The probability that a present owner of an Apple will buy a Dell as their next computer.</para></item>
         
-          <item><para id="id1171279047436">The probability that a present owner of an Apple will buy an IBM as his third computer.</para></item>
+          <item><para id="id1171279047436">The probability that a present owner of an Apple will buy a Dell as their third computer.</para></item>
        
-          <item><para id="id8549370">The probability that a present owner of an IBM will buy an IBM as his fourth computer.</para></item></list>
+          <item><para id="id8549370">The probability that a present owner of a Dell will buy a Dell as their fourth computer.</para></item></list>
         </problem>
         <solution id="oo-id6264197">
           <list id="fs-id1172305643307" list-type="enumerated" number-style="lower-alpha">
@@ -527,7 +527,7 @@
       </exercise>
       <exercise id="id1171277205844">
         <problem id="oo-id1171278997544">
-          <para id="id7099229">John Elway, the football quarterback for the Denver Broncos, calls his own plays. At every play he has to decide to either pass the ball or hand it off. The transition matrix for his plays is given in the following table, where 
+          <para id="id7099229">Patrick Mahomes, the football quarterback for the Kansas City Chiefs, calls his own plays. At every play he has to decide to either pass the ball or hand it off. The transition matrix for his plays is given in the following table, where 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P} {}</m:annotation></m:semantics></m:math> represents a pass and 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H} {}</m:annotation></m:semantics></m:math> a handoff.</para>
        
@@ -538,7 +538,7 @@
       
           <para id="id1171278989225">Find the following.</para>
         <list id="fs-id1172306710655" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id8418909">If John Elway threw a pass on the first play, what is the probability that he will handoff on the third play?</para></item>
+          <item><para id="id8418909">If Patrick Mahomes threw a pass on the first play, what is the probability that he will handoff on the third play?</para></item>
         
           <item><para id="id1730410">Determine the long term play distribution.</para></item></list>
         </problem>
