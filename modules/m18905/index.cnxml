@@ -3146,12 +3146,12 @@ y=$"15","000" "." "04"
     
       <exercise id="id1167456122661">
         <problem id="oo-id1167447549486">
-          <para id="id1167446871451">How much should be invested <emphasis effect="italics">each</emphasis> month at 9% for it to accumulate to $8,000 in three years? </para>
+          <para id="id1167446871451">How much should be invested <emphasis effect="italics">each</emphasis> month at 4.5% for it to accumulate to $8,000 in three years? </para>
         </problem>
         <solution id="oo-id1167460375605">
           <para id="id1167447430988"><emphasis effect="bold"><emphasis effect="italics">Classification:</emphasis>  Sinking Fund Payment</emphasis></para>
           <para id="id5914138"><emphasis effect="bold">Equation:</emphasis>
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>m</m:mi><m:mfenced open="[" close="]"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mrow><m:mtext>09</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mtext>36</m:mtext></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>09</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mn>8,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {m left [ left (1+ "." "09"/"12" right ) rSup { size 8{"36"} }  - 1 right ]}  over  { "." "09"/"12"} } =$8,"000"} {}</m:annotation></m:semantics></m:math></para>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>m</m:mi><m:mfenced open="[" close="]"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mrow><m:mtext>045</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mtext>36</m:mtext></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>045</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>$</m:mi></m:mrow><m:mn>8,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {m left [ left (1+ "." "045"/"12" right ) rSup { size 8{"36"} }  - 1 right ]}  over  { "." "045"/"12"} } =$8,"000"} {}</m:annotation></m:semantics></m:math></para>
         </solution>
       </exercise>
     
