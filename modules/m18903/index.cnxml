@@ -691,7 +691,7 @@
       <example id="eip-id4484153">
       <exercise id="id1171087347119">
         <problem id="oo-id1171084333344">
-          <para id="id1171089252451">Professor Symons wishes to employ two students, John and Mary, to grade the homework papers for his classes. John can mark 20 papers per hour and charges $15 per hour, and Mary can mark 30 papers per hour and charges $25 per hour. Each student must be employed at least one hour a week to justify their employment. If Mr. Symons has at least 110 homework papers to be marked each week, how many hours per week should he employ each student to minimize his cost? </para>
+          <para id="id1171089252451">Professor Symons wishes to employ two students, John and Mary, to grade the homework papers for his classes. John can mark 20 papers per hour and charges $5 per hour, and Mary can mark 30 papers per hour and charges $8 per hour. Each student must be employed at least one hour a week to justify their employment. If Mr. Symons has at least 110 homework papers to be marked each week, how many hours per week should he employ each student to minimize his cost? </para>
         </problem>
         <solution id="oo-id1171100547877">
           <para id="id1171085555171">We choose the variables as follows:</para>
@@ -701,7 +701,7 @@
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>The number of hours per week Mary is employed</m:mtext></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y="The number of hours per week Mary is employed" "." } {}</m:annotation></m:semantics></m:math></para>
           <para id="id1171088593205">The objective function is </para>
           <equation id="eip-id1170658840583">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>15x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>25y</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=15x+25y} {}</m:annotation></m:semantics></m:math></equation>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>8y</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=5x+8y} {}</m:annotation></m:semantics></m:math></equation>
           <para id="id1171087346017">The fact that each student must work at least one hour each week results in the following two constraints:</para>
           <equation id="eip-id1170658393884">
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x &gt;= 1} {}</m:annotation></m:semantics></m:math></equation>
@@ -725,16 +725,16 @@
                         <m:mi>C</m:mi>
                         <m:mo stretchy="false">=</m:mo>
                         <m:mrow>
-                          <m:mn>15x</m:mn>
+                          <m:mn>5x</m:mn>
                           <m:mo stretchy="false">+</m:mo>
-                          <m:mn>25y</m:mn>
+                          <m:mn>8y</m:mn>
                         </m:mrow>
                       </m:mrow>
                     </m:mrow>
                   </m:mstyle>
                   <m:mrow/>
                 </m:mrow>
-                <m:annotation encoding="StarMath 5.0"> size 12{C=15x+25y} {}</m:annotation>
+                <m:annotation encoding="StarMath 5.0"> size 12{C=5x+8y} {}</m:annotation>
               </m:semantics>
             </m:math>
           </para>
