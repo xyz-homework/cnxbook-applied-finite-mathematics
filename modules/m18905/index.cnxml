@@ -300,7 +300,7 @@ $"2250"=P
         <example id="eip-id1167625613201">
         <exercise id="id1167452998804">
           <problem id="oo-id1167446805346">
-            <para id="id1167445523298">A Visa credit card company charges a 1.5% finance charge each month on the unpaid balance. If Martha owes $2350 and has not paid her bill for three months, how much does she owe?</para>
+            <para id="id1167445523298">A Visa credit card company charges a 1.5% finance charge each month on the unpaid balance (simple interest, not compounded). If Martha owes $2350 and has not paid her bill for three months, how much does she owe?</para>
           </problem>
           <solution id="oo-id1167444826524">
             <para id="id1167446314570">Before we attempt the problem, the reader should note that in this problem the rate of finance charge is given per month and not per year. </para>

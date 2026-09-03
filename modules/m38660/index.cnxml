@@ -599,7 +599,7 @@
       </exercise>
       <exercise id="id1165764208278">
         <problem id="oo-id1165757122001">
-          <para id="id1165753140697">Sonya has just earned her law degree and is planning to take the bar exam. If her chance of passing the bar exam is 65% on each try, what is the probability that she will pass the exam in at least three tries? </para>
+          <para id="id1165753140697">Sonya has just earned her law degree and is planning to take the bar exam. If her chance of passing the bar exam is 65% on each try, what is the probability that she will pass the exam within three tries? </para>
         </problem>
         <solution id="oo-id1165757097531">
           <para id="id8401358">0.957125</para>
