@@ -140,7 +140,7 @@
       
       <exercise id="id1164279458548">
         <problem id="oo-id1164277641460">
-          <para id="id1164277424292">In the County of Santa Clara 700,000 people read the San Jose Mercury News, 400,000 people read the San Francisco Examiner, and 100,000 read both newspapers. How many read either the Mercury News or the Examiner?</para>
+          <para id="id1164277424292">In the County of Santa Clara 700,000 people read The Mercury News, 400,000 people read the San Francisco Chronicle, and 100,000 read both newspapers. How many read either The Mercury News or the Chronicle?</para>
         </problem>
       </exercise>
      
@@ -154,7 +154,7 @@
       </exercise>
       <exercise id="id1164277381912">
         <problem id="oo-id1164277609657">
-          <para id="id1164281099672">In a survey of computer users, it was found that 50 use HP printers, 30 use IBM printers, 20 use Apple printers, 13 use HP and IBM, 9 use HP and Apple, 7 use IBM and Apple, and 3 use all three. How many use at least one of these Brands?</para>
+          <para id="id1164281099672">In a survey of computer users, it was found that 50 use HP printers, 30 use Canon printers, 20 use Epson printers, 13 use HP and Canon, 9 use HP and Epson, 7 use Canon and Epson, and 3 use all three. How many use at least one of these Brands?</para>
         </problem>
       </exercise>
       <exercise id="id1164280134217"><problem id="oo-id1164285061901">
@@ -221,7 +221,7 @@
       
       <exercise id="id1164277644426">
         <problem id="oo-id1164277631633">
-          <para id="id1164277954240">A California license plate consists of a number from 1 to 5, then three letters followed by three digits. How many such plates are possible?</para>
+          <para id="id1164277954240">A historical series of California license plates consists of a number from 1 to 5, then three letters followed by three digits. How many such plates are possible?</para>
         </problem>
       </exercise>
       <exercise id="id1164277391560">
@@ -915,10 +915,10 @@
       </exercise>
       <exercise id="id1928734">
         <problem id="oo-id1164279167352">
-          <para id="id1164277492273">In a survey of 250 people, it was found that 125 had read Time magazine, 175 had read Newsweek, 100 had read U. S. News, 75 had read Time and Newsweek, 60 had read Newsweek and U. S. News, 55 had read Time and U. S. News, and 25 had read all three. </para>
+          <para id="id1164277492273">In a survey of 250 people, it was found that 125 had read The Atlantic, 175 had read The New Yorker, 100 had read The Economist, 75 had read The Atlantic and The New Yorker, 60 had read The New Yorker and The Economist, 55 had read The Atlantic and The Economist, and 25 had read all three. </para>
         <list id="fs-id1168798254846" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id1164284311713">How many had read Time but not the other two? </para></item>
-        <item><para id="id1164277486234">How many had read Time or Newsweek but not the U. S. News And World Report? </para></item>
+          <item><para id="id1164284311713">How many had read The Atlantic but not the other two? </para></item>
+        <item><para id="id1164277486234">How many had read The Atlantic or The New Yorker but not The Economist? </para></item>
         <item><para id="id1164294556875">How many had read none of these three magazines? </para></item></list>
         </problem>
         <solution id="oo-id1164282389311">
@@ -1018,7 +1018,7 @@
       </exercise>
       <exercise id="id1164279327510">
         <problem id="oo-id1164279333334">
-          <para id="id1164277511390">On a soccer team three fullbacks can play any of the three fullback positions, left, center, and right. The three halfbacks can play any of the three halfback positions, the four forwards can play any of the four positions, and the goalkeeper plays only his position. How many different arrangements of the 11 players are possible? </para>
+          <para id="id1164277511390">On a soccer team three defenders can play any of the three defender positions, left, center, and right. The three midfielders can play any of the three midfielder positions, the four forwards can play any of the four positions, and the goalkeeper plays only their position. How many different arrangements of the 11 players are possible? </para>
         </problem>
         <solution id="oo-id1164277578819">
           <para id="id1164277489307">46,200</para>

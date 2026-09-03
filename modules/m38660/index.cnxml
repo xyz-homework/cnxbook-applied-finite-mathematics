@@ -258,7 +258,7 @@
       </exercise>
       <exercise id="id1165752898942">
         <problem id="oo-id1165767689583">
-          <para id="id1165760288281">Attendance at a Stanford football game depends upon which team Stanford is playing against. If the game is against U. C. Berkeley, the attendance will be 70,000; if it is against another California team, it will be 40,000; and if it is against an out of state team, it will be 30,000. If the probability of playing against U. C. Berkeley is 10%, against a California team 50% , and against an out of state team 40%, how many fans are expected to attend a game?</para>
+          <para id="id1165760288281">Attendance at a UCLA football game depends upon which team UCLA is playing against. If the game is against USC, the attendance will be 70,000; if it is against another California team, it will be 40,000; and if it is against an out of state team, it will be 30,000. If the probability of playing against USC is 10%, against a California team 50% , and against an out of state team 40%, how many fans are expected to attend a game?</para>
         </problem>
         <solution id="oo-id1165773306342">
           <para id="id1165756284605">39,000</para>
@@ -279,7 +279,7 @@
       </exercise>
       <exercise id="id1165757819194">
         <problem id="oo-id1165762104301">
-          <para id="id1165762301046">Assume that for the next heavyweight fight the odds of Mike Tyson winning are 15 to 2. A gambler bets $10 that Mike Tyson will lose. If Mike Tyson loses, how much can the gambler hope to receive?</para>
+          <para id="id1165762301046">Assume that for the next heavyweight fight the odds of the defending champion winning are 15 to 2. A gambler bets $10 that the defending champion will lose. If the defending champion loses, how much can the gambler hope to receive?</para>
         </problem>
       </exercise>
     </section>
@@ -328,7 +328,7 @@
       </exercise>
       <exercise id="id1165752038165">
         <problem id="oo-id1165758333813">
-          <para id="id1165757259831">On a Christmas tree with lights, if one bulb goes out, the entire string goes out. If there are twelve bulbs on a string, and the probability of any one going out is .04, what is the probability that the string will not go out?</para>
+          <para id="id1165757259831">On a vintage-style string of holiday lights wired in series, if one bulb goes out, the entire string goes out. If there are twelve bulbs on a string, and the probability of any one going out is .04, what is the probability that the string will not go out?</para>
         </problem>
         <solution id="oo-id1165764850898">
           <para id="id1165765733231">0.6127</para>
@@ -457,7 +457,7 @@
       </exercise>
       <exercise id="id1165771427440">
         <problem id="oo-id1165755986620">
-          <para id="id1165756581905">Suppose a test is given to determine if a person is infected with HIV. If a person is infected with HIV, the test will detect it in 90% of the cases; and if the person is not infected with HIV, the test will show a positive result 3% of the time. If we assume that 2% of the population is actually infected with HIV, what is the probability that a person obtaining a positive result is actually infected with HIV? </para>
+          <para id="id1165756581905">Suppose a screening test is given to determine if a person has celiac disease. If a person has celiac disease, the test will detect it in 90% of the cases; and if the person does not have celiac disease, the test will show a positive result 3% of the time. If we assume that 2% of the population actually has celiac disease, what is the probability that a person obtaining a positive result actually has celiac disease? </para>
         </problem>
         <solution id="oo-id1165755771635">
           <para id="id7667516">0.37975</para>
@@ -558,10 +558,10 @@
       </exercise>
       <exercise id="id1165763393179">
         <problem id="oo-id1165769923046">
-          <para id="id1165765822438">An insurance company is planning to insure a group of surgeons against medical malpractice. Its research shows that two surgeons in every fifteen are involved in a medical malpractice suit each year where the average award to the victim is $450,000. How much minimum annual premium should the insurance company charge each doctor?</para>
+          <para id="id1165765822438">An insurance company is planning to insure a group of surgeons against medical malpractice. Its research shows that two surgeons in every fifteen are involved in a medical malpractice suit each year where the average award to the victim is $1,200,000. How much minimum annual premium should the insurance company charge each doctor?</para>
         </problem>
         <solution id="oo-id1165764076133">
-          <para id="id1165760668203">$60,000</para>
+          <para id="id1165760668203">$160,000</para>
         </solution>
       </exercise>
       <exercise id="id1165760339174">
@@ -607,7 +607,7 @@
       </exercise>
       <exercise id="id1165758011207">
         <problem id="oo-id1165753679780">
-          <para id="id1165772097250">Every time Ken Griffey is at bat, his probability of getting a hit is .3, his probability of walking is .1, and his probability of being struck out is .4. If he is at bat three times, what is the probability that he will get two hits and one walk? </para>
+          <para id="id1165772097250">Every time Shohei Ohtani is at bat, his probability of getting a hit is .3, his probability of walking is .1, and his probability of being struck out is .4. If he is at bat three times, what is the probability that he will get two hits and one walk? </para>
         </problem>
         <solution id="oo-id1165753137927">
           <para id="id1165774299177">0.027</para>

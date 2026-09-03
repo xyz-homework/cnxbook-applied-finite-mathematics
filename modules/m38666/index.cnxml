@@ -1431,7 +1431,7 @@
       </exercise>
       <exercise id="id1166112619921">
         <problem id="oo-id1166127394986">
-          <para id="id1166138667689">There are nine judges on the U. S. Supreme Court of which five are conservative and four liberal. This year the court will act on six major cases. What is the probability that out of six cases the court will favor the conservatives in at least four?</para>
+          <para id="id1166138667689">A hypothetical nine-member review panel has five members of one viewpoint and four of another. Over a session, the panel will rule on six major issues. What is the probability that out of six issues the panel will favor the majority viewpoint in at least four?</para>
         </problem>
         <solution id="oo-id1166124929811">
           <para id="id3700828">0.45278</para>

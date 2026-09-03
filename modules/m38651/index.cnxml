@@ -131,10 +131,10 @@
       <para id="id1164283371751">Do the following compound interest problems involving a lump-sum amount.</para>
       <exercise id="id1164279456705">
         <problem id="oo-id1164288883691">
-          <para id="id1164283319141">If $8,000 is invested at 9.2% compounded monthly, what will the final amount be in 4 years?</para>
+          <para id="id1164283319141">If $8,000 is invested at 4.2% compounded monthly, what will the final amount be in 4 years?</para>
         </problem>
         <solution id="oo-id1164278237185">
-          <para id="id1164288858540">$11542.52</para>
+          <para id="id1164288858540">$9460.72</para>
         </solution>
       </exercise>
       <exercise id="id1164298520243">
@@ -180,7 +180,7 @@
       </exercise>
       <exercise id="id1164285400334">
         <problem id="oo-id1164280151227">
-          <para id="id2515972">At an interest rate of 8% compounded continuously, how many years will it take to double your money? Hint: You may do this on your calculator by trial and error.</para>
+          <para id="id2515972">If an investment earns 8% compounded continuously, how many years will it take to double your money? Hint: You may do this on your calculator by trial and error.</para>
         </problem>
         <solution id="oo-id1164283076329">
           <para id="id1164290558898">8.66 years</para>
@@ -228,7 +228,7 @@
       </exercise>
       <exercise id="id1164289153845">
         <problem id="oo-id1164292895972">
-          <para id="id1164280815981">According to the Law of 70, if an amount grows at an annual rate of 1%, then it doubles every seventy years. Suppose a bank pays 5% interest, how long will it take for you to double your money? How about at 15%?</para>
+          <para id="id1164280815981">According to the Law of 70, if an amount grows at an annual rate of 1%, then it doubles every seventy years. Suppose an investment earns 5% interest, how long will it take for you to double your money? How about at 15%?</para>
         </problem>
       </exercise>
       
@@ -263,9 +263,9 @@
         </problem>
       </exercise>
       <exercise id="id1164293966675"><problem id="oo-id1164278177383">
-          <para id="id1164281289195">A firm needs to replace most of its machinery in five years at a cost of $500,000. The company wishes to create a sinking fund to have this money available in five years. How much should the quarterly deposits be if the fund earns 8%?  </para>
+          <para id="id1164281289195">A firm needs to replace most of its machinery in five years at a cost of $1,200,000. The company wishes to create a sinking fund to have this money available in five years. How much should the quarterly deposits be if the fund earns 4%?  </para>
         </problem>
-      <solution id="eip-id1169428618320"><para id="eip-id1169440968598">$20,578.36</para></solution></exercise>
+      <solution id="eip-id1169428618320"><para id="eip-id1169440968598">$54,498.38</para></solution></exercise>
       
       <exercise id="id1164286963040">
         <problem id="oo-id1164281355617">
@@ -274,10 +274,10 @@
       </exercise>
       <exercise id="id1164299479368">
         <problem id="oo-id1164278129897">
-          <para id="id1164288184043">A company has a $120,000 note due in 4 years. How much should be deposited at the end of each quarter in a sinking fund to payoff the note in four years if the interest rate is 8%? </para>
+          <para id="id1164288184043">A company has a $120,000 note due in 4 years. How much should be deposited at the end of each quarter in a sinking fund to payoff the note in four years if the interest rate is 4%? </para>
         </problem>
         <solution id="oo-id1164279904525">
-          <para id="id1164298209891">$6,438.02 </para>
+          <para id="id1164298209891">$6,953.35 </para>
         </solution>
       </exercise>
       <exercise id="id1164281302663">
@@ -301,10 +301,10 @@
       </exercise>
       <exercise id="id1164279551975">
         <problem id="oo-id1164289431577">
-          <para id="id1164280153192">Mrs. Gill puts $2200 at the end of each year in her IRA account that earns 9% per year. How much total money will she have in this account after 20 years?</para>
+          <para id="id1164280153192">Mrs. Gill puts $2200 at the end of each year in her IRA account that earns 5% per year. How much total money will she have in this account after 20 years?</para>
         </problem>
         <solution id="oo-id2284083">
-          <para id="id1164279518320">$112,552.26</para>
+          <para id="id1164279518320">$72,745.10</para>
         </solution>
       </exercise>
       <exercise id="id1164285397583">
@@ -332,10 +332,10 @@
       </exercise>
       <exercise id="id1164292929595">
         <problem id="oo-id1164289096328">
-          <para id="id1164279993278">You determine that you can afford $250 per month for a car. What is the maximum amount you can afford to pay for a car if the interest rate is 9% and you want to repay the loan in 5 years?</para>
+          <para id="id1164279993278">You determine that you can afford $550 per month for a car. What is the maximum amount you can afford to pay for a car if the interest rate is 9% and you want to repay the loan in 5 years?</para>
         </problem>
         <solution id="oo-id1164287051482">
-          <para id="id1164292823420">$12,043.34</para>
+          <para id="id1164292823420">$26,495.36</para>
         </solution>
       </exercise>
       <exercise id="id1164280816166">
@@ -452,10 +452,10 @@
       </exercise>
       <exercise id="id1164279955546">
         <problem id="oo-id1487011">
-          <para id="id1164287216419">Mr. Smith is planning to retire in 25 years and would like to have $250,000 then. What monthly payment made at the end of each month to an account that pays 6.5% will achieve his objective? </para>
+          <para id="id1164287216419">Mr. Smith is planning to retire in 25 years and would like to have $1,000,000 then. What monthly payment made at the end of each month to an account that pays 6.5% will achieve his objective? </para>
         </problem>
         <solution id="oo-id1164279401853">
-          <para id="id1164278236519">$333.85</para>
+          <para id="id1164278236519">$1,335.41</para>
         </solution>
       </exercise>
       <exercise id="id1164278255796">
@@ -805,10 +805,10 @@
       </exercise>
       <exercise id="id1164280116959">
         <problem id="oo-id1164284030111">
-          <para id="id1164283837831">The population of California is 32 million and expects to grow at a rate of 2.3% per year for the next 10 years. What will the population of California be in 10 years?</para>
+          <para id="id1164283837831">The population of California is 39 million and expects to grow at a rate of 0.5% per year for the next 10 years. What will the population of California be in 10 years?</para>
         </problem>
         <solution id="oo-id1164279595115">
-          <para id="id1164285615975">40.17 million</para>
+          <para id="id1164285615975">40.99 million</para>
         </solution>
       </exercise>
       <exercise id="id5109742">
@@ -846,18 +846,18 @@
       </exercise>
       <exercise id="id1164279579888">
         <problem id="oo-id1164287938469">
-          <para id="id1164297493790">Lisa buys a car for $16,500, and receives $2400 for her old car as a trade-in value. Find the monthly payment for the balance if the loan is amortized over 5 years at 8.5%. </para>
+          <para id="id1164297493790">Lisa buys a car for $32,500, and receives $4500 for her old car as a trade-in value. Find the monthly payment for the balance if the loan is amortized over 5 years at 8.5%. </para>
         </problem>
         <solution id="oo-id1164279820605">
-          <para id="id1164299180636">$289.28</para>
+          <para id="id1164299180636">$574.46</para>
         </solution>
       </exercise>
       <exercise id="id1164288965010">
         <problem id="oo-id1164279813209">
-          <para id="id1164279765189">A car is sold for $3000 cash down and $400 per month for the next 4 years. Find the cash value of the car today if the money is worth 8.3% compounded monthly.</para>
+          <para id="id1164279765189">A car is sold for $5000 cash down and $500 per month for the next 4 years. Find the cash value of the car today if the money is worth 6% compounded monthly.</para>
         </problem>
         <solution id="oo-id1164300853248">
-          <para id="id1164278438246">$19,290.63</para>
+          <para id="id1164278438246">$26,290.16</para>
         </solution>
       </exercise>
       <exercise id="id1164285080327">
@@ -983,10 +983,10 @@
       </exercise>
       <exercise id="id1164279342620">
         <problem id="oo-id1164298711150">
-          <para id="id2273188">What amount should be invested per month at 9.1% compounded monthly so that it will become $5000 in 17 months?</para>
+          <para id="id2273188">What amount should be invested per month at 4.8% compounded monthly so that it will become $5000 in 17 months?</para>
         </problem>
         <solution id="oo-id1164280997370">
-          <para id="id1164280481195">$276.68 </para>
+          <para id="id1164280481195">$284.82 </para>
         </solution>
       </exercise>
       <exercise id="id6238741">
@@ -1039,10 +1039,10 @@
       </exercise>
       <exercise id="id1164281461665">
         <problem id="oo-id1164288087174">
-          <para id="id1164285457482">Janus Mutual Funds claims a growth rate of 17% per year. If $500 per month is invested, what will the final amount be in 15 years?</para>
+          <para id="id1164285457482">Janus Mutual Funds claims a growth rate of 9% per year. If $500 per month is invested, what will the final amount be in 15 years?</para>
         </problem>
         <solution id="oo-id1164281457264">
-          <para id="id1164285274165">$408,705.02</para>
+          <para id="id1164285274165">$189,202.88</para>
         </solution>
       </exercise>
       <exercise id="id8790518">

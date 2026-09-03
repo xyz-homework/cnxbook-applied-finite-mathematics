@@ -81,7 +81,7 @@
       </exercise>
       <exercise id="id1168073293110">
         <problem id="oo-id1168072910231">
-          <para id="id1168072853536">A print shop at a community college in Cupertino, California, employs two different contractors to maintain its copying machines. The print shop needs to have 12 IBM, 18 Xerox, and 20 Canon copying machines serviced. Contractor A can repair 2 IBM, 1 Xerox, and 2 Canon machines at a cost of $800 per month, while Contractor B can repair 1 IBM, 3 Xerox, and 2 Canon machines at a cost of $1000 per month. How many months should each of the two contractors be employed to minimize the cost?   </para>
+          <para id="id1168072853536">A print shop at a community college in Cupertino, California, employs two different contractors to maintain its copying machines. The print shop needs to have 12 Ricoh, 18 Xerox, and 20 Canon copying machines serviced. Contractor A can repair 2 Ricoh, 1 Xerox, and 2 Canon machines at a cost of $800 per month, while Contractor B can repair 1 Ricoh, 3 Xerox, and 2 Canon machines at a cost of $1000 per month. How many months should each of the two contractors be employed to minimize the cost?   </para>
         </problem>
       </exercise>
     </section>
@@ -122,7 +122,7 @@
       </exercise>
       <exercise id="id1168072841505">
         <problem id="oo-id1168070410469">
-          <para id="id1168073224957">A department store sells two types of televisions: Regular and Big Screen. The store can sell up to 90 sets a month. A Regular television requires 6 cubic feet of storage space, and a Big Screen television requires 18 cubic feet of space, and a maximum of 1080 cubic feet of storage space is available. The Regular and Big Screen televisions take up, respectively, 2 and 3 sales hours of labor, and a maximum of 198 hours of labor is available. If the profit made from each of these types is $60 and $80, respectively, how many of each type of television should be sold to maximize profit, and what is the maximum profit?  </para>
+          <para id="id1168073224957">A department store sells two types of televisions: Standard and Large. The store can sell up to 90 sets a month. A Standard television requires 6 cubic feet of storage space, and a Large television requires 18 cubic feet of space, and a maximum of 1080 cubic feet of storage space is available. The Standard and Large televisions take up, respectively, 2 and 3 sales hours of labor, and a maximum of 198 hours of labor is available. If the profit made from each of these types is $60 and $80, respectively, how many of each type of television should be sold to maximize profit, and what is the maximum profit?  </para>
         </problem>
         <solution id="oo-id2205613">
           <para id="id7148435">(72, 180); $5760</para>
@@ -258,10 +258,10 @@
       </exercise>
       <exercise id="id1168078452171">
         <problem id="oo-id1168073711877">
-          <para id="id1168077696794">A company makes two mixtures of nuts: Mixture A and Mixture B. Mixture A contains 30% peanuts, 30% almonds and 40% cashews and sells for $5 per pound. Mixture B contains 30% peanuts, 60% almonds and 10% cashews and sells for $3 a pound. The company has 540 pounds of peanuts, 900 pounds of almonds, 480 pounds of cashews. How many pounds of each of mixtures A and B should the company make to maximize profit, and what is the maximum profit?</para>
+          <para id="id1168077696794">A company makes two mixtures of nuts: Mixture A and Mixture B. Mixture A contains 30% peanuts, 30% almonds and 40% cashews and sells for $12 per pound. Mixture B contains 30% peanuts, 60% almonds and 10% cashews and sells for $8 a pound. The company has 540 pounds of peanuts, 900 pounds of almonds, 480 pounds of cashews. How many pounds of each of mixtures A and B should the company make to maximize profit, and what is the maximum profit?</para>
         </problem>
         <solution id="oo-id1168075010976">
-          <para id="id1168077471475">(1000, 800); $7400</para>
+          <para id="id1168077471475">(1000, 800); $18400</para>
         </solution>
       </exercise>
     </section>

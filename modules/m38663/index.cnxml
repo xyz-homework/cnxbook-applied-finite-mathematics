@@ -290,17 +290,17 @@
       
       <exercise id="id6353931">
         <problem id="oo-id1171277245976">
-          <para id="id1171276750912">Two tennis players, Andre and Vijay each with two dollars in their pocket, decide to bet each other $1, for every game they play. They continue playing until one of them is broke.  </para>
+          <para id="id1171276750912">Two tennis players, Carlos and Jannik each with two dollars in their pocket, decide to bet each other $1, for every game they play. They continue playing until one of them is broke.  </para>
         
           <para id="id1171272002952">Do the following:</para>
         <list id="fs-id1172318272990" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id1171279041566">Write the transition matrix for Andre.</para></item>
+          <item><para id="id1171279041566">Write the transition matrix for Carlos.</para></item>
         
           <item><para id="id4931268">Identify the absorbing states. </para></item>
        
           <item><para id="id1171273362352">Write the solution matrix.</para></item>
         
-          <item><para id="id6496036">At a given stage if Andre has $1, what is the chance that he will eventually lose it all?</para></item></list>
+          <item><para id="id6496036">At a given stage if Carlos has $1, what is the chance that he will eventually lose it all?</para></item></list>
         </problem>
       </exercise>
       <exercise id="id1171276777270"><problem id="oo-id7231054">
