@@ -1102,10 +1102,10 @@
       
       <exercise id="id1170925431959">
         <problem id="oo-id1170932205437">
-          <para id="id1170911697823">A car rental company offers two plans. Plan I charges $12 a day and 12 cents a mile, while Plan II charges $30 a day but no charge for miles. If you were to drive 300 miles in a day, which plan is better? For what mileage are both rates the same?</para>
+          <para id="id1170911697823">A car rental company offers two plans. Plan I charges $35 a day and 20 cents a mile, while Plan II charges $75 a day but no charge for miles. If you were to drive 300 miles in a day, which plan is better? For what mileage are both rates the same?</para>
         </problem>
         <solution id="oo-id2964457">
-          <para id="id1170914039940">150 miles</para>
+          <para id="id1170914039940">200 miles</para>
         </solution>
       </exercise>
       
@@ -1176,7 +1176,7 @@
       </exercise>
       <exercise id="id4389202">
         <problem id="oo-id1170915573630">
-          <para id="id1170924665871">A firm producing disposable cameras has fixed costs of $8,000, and variable cost of 50 cents a camera. If the cameras sell for $3.50, how many cameras must be produced to break-even?</para>
+          <para id="id1170924665871">A firm producing phone cases has fixed costs of $8,000, and variable cost of 50 cents a case. If the cases sell for $3.50, how many cases must be produced to break-even?</para>
         </problem>
         <solution id="oo-id1170928435032">
           <para id="id1170910565413">2,667</para>
