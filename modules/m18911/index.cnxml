@@ -21,10 +21,10 @@
     <title>Problems</title>
     <exercise id="id1166352823207">
       <problem id="oo-id1166357962795">
-        <para id="id1166347832128">What will the future value of $5000 be in 5 years at 8% compounded quarterly?</para>
+        <para id="id1166347832128">What will the future value of $5000 be in 5 years at 4% compounded quarterly?</para>
       </problem>
       <solution id="oo-id1166360964329">
-        <para id="id2092356">7,429.74</para>
+        <para id="id2092356">6,100.95</para>
       </solution>
     </exercise>
     <exercise id="id1166363638625">
