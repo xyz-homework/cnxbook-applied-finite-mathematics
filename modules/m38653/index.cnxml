@@ -321,16 +321,16 @@
           <para id="id1164277655932">Compute the following. </para>
         <list id="fs-id1168794711978" list-type="enumerated" number-style="lower-alpha">
                   <item><para id="id1164279299335"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9P2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9P2} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9</m:mn><m:mi mathvariant="normal">P</m:mi><m:mn>2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9P2} {}</m:annotation></m:semantics></m:math></para></item>
           <item><para id="id1164277591755"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6P4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6P4} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6</m:mn><m:mi mathvariant="normal">P</m:mi><m:mn>4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6P4} {}</m:annotation></m:semantics></m:math></para></item>
         
          <item><para id="id1164279318898">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8P3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8P3} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8</m:mn><m:mi mathvariant="normal">P</m:mi><m:mn>3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8P3} {}</m:annotation></m:semantics></m:math></para></item>
 
       
          <item><para id="id1164282952121">
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>7P4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7P4} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>7</m:mn><m:mi mathvariant="normal">P</m:mi><m:mn>4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7P4} {}</m:annotation></m:semantics></m:math></para></item>
 </list>
         </problem>
       </exercise>
@@ -550,16 +550,16 @@
           <para id="id1164286882589">Compute the following: </para>
         <list id="fs-id1168801450988" list-type="enumerated" number-style="lower-alpha">
          <item><para id="id1164277618662"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9C2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9C2} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9</m:mn><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9C2} {}</m:annotation></m:semantics></m:math></para></item>
        <item>
           <para id="id1164277580570"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6C4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6C4} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6</m:mn><m:mi mathvariant="normal">C</m:mi><m:mn>4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6C4} {}</m:annotation></m:semantics></m:math></para></item>
        
           <item><para id="id1164285733083"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8C3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8C3} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8</m:mn><m:mi mathvariant="normal">C</m:mi><m:mn>3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8C3} {}</m:annotation></m:semantics></m:math></para></item>
         
          <item><para id="id1164277575389"> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>7C4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7C4} {}</m:annotation></m:semantics></m:math></para></item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>7</m:mn><m:mi mathvariant="normal">C</m:mi><m:mn>4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7C4} {}</m:annotation></m:semantics></m:math></para></item>
 </list>
         </problem>
       </exercise>
@@ -985,8 +985,8 @@
         <problem id="oo-id1164277649786">
           <para id="id1164279187577">Compute:</para>
           <list id="fs-id1168792153455" list-type="enumerated" number-style="lower-alpha"><item> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9C4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9C4} {}</m:annotation></m:semantics></m:math></item><item> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8P3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8P3} {}</m:annotation></m:semantics></m:math></item><item> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9</m:mn><m:mi mathvariant="normal">C</m:mi><m:mn>4</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9C4} {}</m:annotation></m:semantics></m:math></item><item> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8</m:mn><m:mi mathvariant="normal">P</m:mi><m:mn>3</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8P3} {}</m:annotation></m:semantics></m:math></item><item> 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow>
 <m:mfrac>
 <m:mrow>
