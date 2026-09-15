@@ -548,29 +548,21 @@
         <solution id="oo-id1171632542047">
           <list id="fs-id1167594244505" list-type="enumerated" number-style="lower-alpha">
           <item> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>14</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>08</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>06</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>09</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
- "." "14" {} #  "." "08" {} #  "." "11" {} ##
- "." "12" {} #  "." "11" {} #  "." "11" {} ##
- "." "06" {} #  "." "09" {} #  "." "10"{}
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>14</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>06</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>08</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>09</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+ "." "14" {} #  "." "12" {} #  "." "06" {} ##
+ "." "08" {} #  "." "11" {} #  "." "09" {} ##
+ "." "11" {} #  "." "11" {} #  "." "10"{}
 }  right ]} {}</m:annotation></m:semantics></m:math></item>
           <item> 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
-0 {} # 1 {} # 0{}
-}  right ]} {}</m:annotation></m:semantics></m:math>, 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
-0 {} ##
-1 {} ##
-0
-}  right ]} {}</m:annotation></m:semantics></m:math> or 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
-0 {} # 1 {} # 0{}
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+0 {} # 0 {} # 1{}
 }  right ]} {}</m:annotation></m:semantics></m:math>, 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>1</m:mn></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
 0 {} ##
 0 {} ##
 1
 }  right ]} {}</m:annotation></m:semantics></m:math>, 
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>value</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"value"= "." "11"} {}</m:annotation></m:semantics></m:math></item></list>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>value</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"value"= "." "10"} {}</m:annotation></m:semantics></m:math></item></list>
         </solution>
       </exercise>
       <exercise id="id1171624335605">
