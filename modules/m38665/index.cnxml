@@ -732,10 +732,10 @@
           <para id="id1171636267300">Terry knows there is a quiz tomorrow, but does not remember whether it is in his math class or in his biology class. He has time to study for only one subject. If he studies math and there is a quiz in it, he gains 10 points and even if there is no quiz he gains two points for acquiring the extra knowledge which he will apply towards the final exam. If he studies biology and there is a quiz in it, he gains ten points but there is no gain if there is no quiz. Determine a mixed strategy for Terry, and the expected payoff.</para>
         </problem>
         <solution id="oo-id1171649875868">
-          <equation id="fs-id1167602222793"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
-1 {} # 0{}
+          <equation id="fs-id1167602222793"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">/</m:mo><m:mn>9</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>9</m:mn></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ matrix {
+5/9 {} # 4/9{}
 }  right ]} {}</m:annotation></m:semantics><m:mo>, 
-</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>payoff</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>   points</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"payoff"=2" points"} {}</m:annotation></m:semantics></m:math></equation>
+</m:mo><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>payoff</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>5.56</m:mn></m:mrow><m:mtext>   points</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"payoff"=5.56" points"} {}</m:annotation></m:semantics></m:math></equation>
         </solution>
       </exercise>
       <exercise id="id1171633483655">
