@@ -1,15 +1,22 @@
 Applied Finite Mathematics: XYZ Homework edition
 ================================================
 
-This repository is an adaptation, maintained by XYZ Homework, of "Applied Finite
-Mathematics" by Rupinder Sekhon (De Anza College), originally published on OpenStax CNX
-(cnx.org, collection col10613) under the Creative Commons Attribution 3.0 license
-(https://creativecommons.org/licenses/by/3.0/). Changes were made.
+This repository holds XYZ Homework's adaptation of "Applied Finite Mathematics" by
+Rupinder Sekhon (De Anza College), originally published on OpenStax CNX (cnx.org,
+collection col10613) under the Creative Commons Attribution 3.0 license (CC BY 3.0,
+https://creativecommons.org/licenses/by/3.0/). Changes were made.
 
-The edition as a whole is licensed under the Creative Commons Attribution 4.0
-International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/); the full
-text is in LICENSE. The original CC BY 3.0 material remains available under its original
-license from its source.
+Licensing
+---------
+- XYZ Homework's adaptation is licensed under the Creative Commons Attribution 4.0
+  International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). That
+  covers XYZ's own additions and changes and the edition as compiled; the full text is in
+  LICENSE.
+- The original material from Sekhon's book remains under CC BY 3.0. Reuse of it follows
+  that license, including its attribution terms.
+- Material adapted from "Applied Finite Mathematics (Sekhon and Bloom)" (LibreTexts)
+  remains under CC BY 4.0.
+Both licenses require attribution only. The sources below say what to credit.
 
 Sources, by module
 ------------------
