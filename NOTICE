@@ -10,7 +10,8 @@ Licensing
 ---------
 - XYZ Homework's adaptation is licensed under the Creative Commons Attribution 4.0
   International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). That
-  covers XYZ's own additions and changes and the edition as compiled; the full text is in
+  license covers XYZ's own additions and changes and its selection and arrangement of the
+  edition. It does not relicense the material in the next two items. The full text is in
   LICENSE.
 - The original material from Sekhon's book remains under CC BY 3.0. Reuse of it follows
   that license, including its attribution terms.
@@ -21,8 +22,8 @@ Both licenses require attribution only. The sources below say what to credit.
 Sources, by module
 ------------------
 
-m18901-m18911 (chapter text) and m38636, m38640, m38649, m38650, m38651, m38653, m38660,
-m38663, m38665, m38666 (homework)
+m18901-m18911 (chapter text, except the m18906 section listed next) and m38636, m38640,
+m38649, m38650, m38651, m38653, m38660, m38663, m38665, m38666 (homework)
     Rupinder Sekhon, "Applied Finite Mathematics", OpenStax CNX col10613, CC BY 3.0.
     Adapted by XYZ Homework: errata corrected, application problems modernized,
     accessibility repairs (tables and image descriptions). The git history records each
@@ -34,7 +35,8 @@ m18906, section "Binomial Theorem" (element ids beginning "xyz-bt-")
     https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom),
     CC BY 4.0 (page last modified 2025-08-14). Changes: re-expressed in CNXML/MathML;
     corrected the printed coefficient of the second term of (x+y)^4 (4x^3y) and two
-    typographical errors (x^6, 7C0); restated the general-term rule.
+    typographical errors (x^6, 7C0); restated the general-term rule. The section ends with
+    an attribution note (id "xyz-bt-attribution") so the credit travels with the content.
 
 m90200-m90299 (when present)
     Original material by XYZ Homework, CC BY 4.0.

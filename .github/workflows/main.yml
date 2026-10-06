@@ -41,7 +41,9 @@ jobs:
       - name: Create a GitHub release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: /tmp/_attic/IO_ARTIFACTS/applied-finite-mathematics.epub
+          # The EPUB carries only the collection's single licence and author, so the
+          # release ships NOTICE (sources and licences by module) and LICENSE with it.
+          artifacts: /tmp/_attic/IO_ARTIFACTS/applied-finite-mathematics.epub,NOTICE,LICENSE
           tag: ${{ steps.tag_version.outputs.new_tag }}
           name: ${{ steps.tag_version.outputs.new_tag }}
           omitBody: True
