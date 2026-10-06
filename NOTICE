@@ -1,0 +1,37 @@
+Applied Finite Mathematics: XYZ Homework edition
+================================================
+
+This repository is an adaptation, maintained by XYZ Homework, of "Applied Finite
+Mathematics" by Rupinder Sekhon (De Anza College), originally published on OpenStax CNX
+(cnx.org, collection col10613) under the Creative Commons Attribution 3.0 license
+(https://creativecommons.org/licenses/by/3.0/). Changes were made.
+
+The edition as a whole is licensed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/); the full
+text is in LICENSE. The original CC BY 3.0 material remains available under its original
+license from its source.
+
+Sources, by module
+------------------
+
+m18901-m18911 (chapter text) and m38636, m38640, m38649, m38650, m38651, m38653, m38660,
+m38663, m38665, m38666 (homework)
+    Rupinder Sekhon, "Applied Finite Mathematics", OpenStax CNX col10613, CC BY 3.0.
+    Adapted by XYZ Homework: errata corrected, application problems modernized,
+    accessibility repairs (tables and image descriptions). The git history records each
+    change.
+
+m18906, section "Binomial Theorem" (element ids beginning "xyz-bt-")
+    Adapted from section 7.7 "Binomial Theorem" of "Applied Finite Mathematics (Sekhon
+    and Bloom)" by Rupinder Sekhon and Roberta Bloom, LibreTexts,
+    https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom),
+    CC BY 4.0 (page last modified 2025-08-14). Changes: re-expressed in CNXML/MathML;
+    corrected the printed coefficient of the second term of (x+y)^4 (4x^3y) and two
+    typographical errors (x^6, 7C0); restated the general-term rule.
+
+m90200-m90299 (when present)
+    Original material by XYZ Homework, CC BY 4.0.
+
+m90300-m90399 (when present)
+    Adapted from "Applied Finite Mathematics (Sekhon and Bloom)", LibreTexts, CC BY 4.0;
+    each module's provenance record names its source pages.
