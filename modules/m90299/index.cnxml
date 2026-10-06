@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>About This Edition</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m90299</md:content-id>
+  <md:title>About This Edition</md:title>
+  <md:abstract>The sources and licenses of the XYZ Homework edition of Applied Finite Mathematics.</md:abstract>
+  <md:uuid>3acb99f4-ef9d-42c8-b374-5ccea73b7188</md:uuid>
+</metadata>
+
+<content>
+    <para id="xyz-about-source">This book is XYZ Homework's adaptation of <emphasis effect="italics">Applied Finite Mathematics</emphasis> by Rupinder Sekhon (De Anza College), originally published by OpenStax CNX (cnx.org, collection col10613) under the <link url="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 license (CC BY 3.0)</link>. Changes were made: errors corrected, application problems updated, accessibility repairs, and new material added.</para>
+    <para id="xyz-about-layers">The edition is licensed in layers:</para>
+    <list id="xyz-about-licenses" list-type="bulleted">
+      <item>XYZ Homework's adaptation is licensed under the <link url="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license (CC BY 4.0)</link>. That license covers XYZ's own additions and changes and its selection and arrangement of the edition.</item>
+      <item>The original material from Sekhon's book remains under CC BY 3.0. Reuse of that material follows CC BY 3.0, including its attribution terms.</item>
+      <item>The Binomial Theorem section of Chapter 6 is adapted from <link url="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)">Applied Finite Mathematics (Sekhon and Bloom)</link> by Rupinder Sekhon and Roberta Bloom (LibreTexts) and remains under CC BY 4.0. That section ends with its own attribution note.</item>
+    </list>
+    <para id="xyz-about-repo">The source of this edition is at <link url="https://github.com/xyz-homework/cnxbook-applied-finite-mathematics">github.com/xyz-homework/cnxbook-applied-finite-mathematics</link>. Its NOTICE file lists the source and license of every module.</para>
+</content>
+</document>

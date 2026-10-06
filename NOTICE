@@ -1,0 +1,51 @@
+Applied Finite Mathematics: XYZ Homework edition
+================================================
+
+This repository holds XYZ Homework's adaptation of "Applied Finite Mathematics" by
+Rupinder Sekhon (De Anza College), originally published on OpenStax CNX (cnx.org,
+collection col10613) under the Creative Commons Attribution 3.0 license (CC BY 3.0,
+https://creativecommons.org/licenses/by/3.0/). Changes were made.
+
+Licensing
+---------
+- XYZ Homework's adaptation is licensed under the Creative Commons Attribution 4.0
+  International license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). That
+  license covers XYZ's own additions and changes and its selection and arrangement of the
+  edition. It does not relicense the material in the next two items. The full text is in
+  LICENSE.
+- The original material from Sekhon's book remains under CC BY 3.0. Reuse of it follows
+  that license, including its attribution terms.
+- Material adapted from "Applied Finite Mathematics (Sekhon and Bloom)" (LibreTexts)
+  remains under CC BY 4.0.
+Both licenses require attribution only. The sources below say what to credit.
+
+Sources, by module
+------------------
+
+m18901-m18911 (chapter text, except the m18906 section listed next) and m38636, m38640,
+m38649, m38650, m38651, m38653, m38660, m38663, m38665, m38666 (homework)
+    Rupinder Sekhon, "Applied Finite Mathematics", OpenStax CNX col10613, CC BY 3.0.
+    Adapted by XYZ Homework: errata corrected, application problems modernized,
+    accessibility repairs (tables and image descriptions). The git history records each
+    change.
+
+m18906, section "Binomial Theorem" (element ids beginning "xyz-bt-")
+    Adapted from section 7.7 "Binomial Theorem" of "Applied Finite Mathematics (Sekhon
+    and Bloom)" by Rupinder Sekhon and Roberta Bloom, LibreTexts,
+    https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom),
+    CC BY 4.0 (page last modified 2025-08-14). Changes: re-expressed in CNXML/MathML;
+    corrected the printed coefficient of the second term of (x+y)^4 (4x^3y) and two
+    typographical errors (x^6, 7C0); restated the general-term rule. The section ends with
+    an attribution note (id "xyz-bt-attribution") so the credit travels with the content.
+
+m90299 "About This Edition" (front matter)
+    Original material by XYZ Homework, CC BY 4.0. It states the licensing above inside the
+    book, so an EPUB built from this collection carries it. The XYZ HTML eBook skips front
+    matter and carries the attribution on every page instead.
+
+m90200-m90298 (when present)
+    Original material by XYZ Homework, CC BY 4.0.
+
+m90300-m90399 (when present)
+    Adapted from "Applied Finite Mathematics (Sekhon and Bloom)", LibreTexts, CC BY 4.0;
+    each module's provenance record names its source pages.
