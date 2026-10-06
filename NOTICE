@@ -38,7 +38,12 @@ m18906, section "Binomial Theorem" (element ids beginning "xyz-bt-")
     typographical errors (x^6, 7C0); restated the general-term rule. The section ends with
     an attribution note (id "xyz-bt-attribution") so the credit travels with the content.
 
-m90200-m90299 (when present)
+m90299 "About This Edition" (front matter)
+    Original material by XYZ Homework, CC BY 4.0. It states the licensing above inside the
+    book, so an EPUB built from this collection carries it. The XYZ HTML eBook skips front
+    matter and carries the attribution on every page instead.
+
+m90200-m90298 (when present)
     Original material by XYZ Homework, CC BY 4.0.
 
 m90300-m90399 (when present)

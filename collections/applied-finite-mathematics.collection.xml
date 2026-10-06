@@ -9,6 +9,7 @@
 <md:slug>applied-finite-mathematics</md:slug>
 </metadata>
   <col:content>
+    <col:module document="m90299"/>
     <col:subcollection>
       <md:title>Linear Equations</md:title>
       <col:content>
