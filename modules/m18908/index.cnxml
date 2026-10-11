@@ -500,7 +500,7 @@
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mi>I</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J`I} {}</m:annotation></m:semantics></m:math> and 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>J</m:mi><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{J` ital "II"} {}</m:annotation></m:semantics></m:math>, as shown in the Venn diagram below.</para>
       <para id="id1163893767576"><figure id="id1163881483781"><subfigure id="eip-id1163783608963">
-          <media id="id1163881483781_media" alt="The figure shows another possible way of visualizing the probability of choosing a black or white marble from Jar I or Jar 2.">
+          <media id="id1163881483781_media" alt="Venn diagram of the sample space: a rectangle divided into two halves, J I (Jar I) on the left and J II (Jar II) on the right. An oval for event B crosses both halves; its two pieces are labeled J I ∩ B and J II ∩ B.">
             <image mime-type="image/png" src="../../media/graphics4-1c74.png" id="id1163881483781__onlineimage" height="250" width="300" print-width="2.5in"/>
           </media>
        </subfigure>
