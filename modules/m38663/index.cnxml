@@ -304,15 +304,15 @@
         </problem>
       </exercise>
       <exercise id="id1171276777270"><problem id="oo-id7231054">
-          <para id="id1171276833288">Repeat <link target-id="id6353931"/>, if the chance of winning for Andre is .4 and for Vijay .6.</para>
+          <para id="id1171276833288">Repeat <link target-id="id6353931"/>, if the chance of winning for Carlos is .4 and for Jannik .6.</para>
         <list id="fs-id1172316727411" list-type="enumerated" number-style="lower-alpha">
-          <item><para id="id1171276827524">Write the transition matrix for Andre.</para></item>
+          <item><para id="id1171276827524">Write the transition matrix for Carlos.</para></item>
        
           <item><para id="id7860356">Write the solution matrix.</para></item>
         
-          <item><para id="id7079373">If Andre has $3, what is the probability that he will eventually be ruined?</para></item>
+          <item><para id="id7079373">If Carlos has $3, what is the probability that he will eventually be ruined?</para></item>
         
-          <item><para id="id8419397">If Vijay has $1, what is the probability that he will eventually triumph?</para></item></list>
+          <item><para id="id8419397">If Jannik has $1, what is the probability that he will eventually triumph?</para></item></list>
         </problem>
         <solution id="oo-id1171273363039">
 <list id="eip-id1167536354384" list-type="enumerated" number-style="lower-alpha"><item>
@@ -321,7 +321,7 @@
           </media>
         </figure>
 </item>
-<item>Andre's solution matrix
+<item>Carlos's solution matrix
         <figure id="id1171277125818"><media id="id1171277125818_media" alt="This matrix depict the probability of winning a either zero dollars or four dollars.">
           <image mime-type="image/png" src="../../media/graphics9-1f7c.png" id="id1171277125818__onlineimage" height="147" width="242" print-width="2in"/>
         </media>
@@ -342,7 +342,7 @@
       
       <exercise id="id1171279066410">
         <problem id="oo-id1171276772555">
-          <para id="id1171277126019">Repeat <link target-id="id6353931"/>, if initially Andre has $3 and Vijay has $2.</para>
+          <para id="id1171277126019">Repeat <link target-id="id6353931"/>, if initially Carlos has $3 and Jannik has $2.</para>
         <list id="fs-id2103814" list-type="enumerated" number-style="lower-alpha">
           <item><para id="id1171272847467">Write the transition matrix.</para></item>
         
@@ -350,7 +350,7 @@
         
           <item><para id="id7963135">Write the solution matrix.</para></item>
         
-          <item><para id="id5693812">If Andre has $4, what is the probability that he will eventually be ruined?</para></item></list>
+          <item><para id="id5693812">If Carlos has $4, what is the probability that he will eventually be ruined?</para></item></list>
         </problem>
       </exercise>
       <exercise id="id1171277124561"><problem id="oo-id5413389">
