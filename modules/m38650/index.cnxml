@@ -125,7 +125,7 @@
           <para id="id1168073224957">A department store sells two types of televisions: Standard and Large. The store can sell up to 90 sets a month. A Standard television requires 6 cubic feet of storage space, and a Large television requires 18 cubic feet of space, and a maximum of 1080 cubic feet of storage space is available. The Standard and Large televisions take up, respectively, 2 and 3 sales hours of labor, and a maximum of 198 hours of labor is available. If the profit made from each of these types is $60 and $80, respectively, how many of each type of television should be sold to maximize profit, and what is the maximum profit?  </para>
         </problem>
         <solution id="oo-id2205613">
-          <para id="id7148435">(72, 180); $5760</para>
+          <para id="id7148435">(72, 18); $5760</para>
         </solution>
       </exercise>
       <exercise id="id1168073264065">
